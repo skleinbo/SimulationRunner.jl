@@ -1,0 +1,10 @@
+name = "SimulationRunner"
+uuid = "08b74fe0-a553-11e8-3e43-7b0e22b21278"
+authors = ["Stephan Kleinboelting <skleinbo@thp.uni-koeln.de>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
